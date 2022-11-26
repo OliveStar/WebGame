@@ -7,9 +7,19 @@
 <br>
 ![image](https://github.com/OliveStar/WebGame/blob/main/2D%20Shooting%20Game/preview.png)
 <br>
-在这个游戏模型中实现了：  <br>
+核心功能点：  <br>
 1. 敌人的生成逻辑
 2. 敌人运动计算
 3. 子弹飞行物轨迹计算
 4. 命中检测与得分计算
 5. 敌人爆炸的粒子效果
+
+## mindsweeper
+2D版扫雷游戏
+<br>
+![image](https://github.com/OliveStar/WebGame/blob/main/minesweeper/demo.png)
+<br>
+核心功能点： <br>
+1. 雷区的生成逻辑
+2. 扫雷搜索区域的递归检测逻辑
+3. 插旗正确性的判断逻辑
